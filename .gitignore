@@ -1,0 +1,10 @@
+# IntelliJ IDEA / GoLand / WebStorm и другие IDE от JetBrains
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
